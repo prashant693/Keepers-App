@@ -1,2 +1,3 @@
-# KeeperApp
-Project using React.js
+# Keepers App
+Clone of Google Notes
+
